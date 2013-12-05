@@ -13,7 +13,7 @@ progress-bar-formatter
 var pbf = require ("progress-bar-formatter");
 var progress = pbf.create ();
 console.log (progress.format (0.4));
-//[##########--------------]  40%
+//##########--------------
 ```
 
 #### Functions ####
@@ -36,15 +36,9 @@ Options:
 - __complete__ - _String_  
   The character that shows completion progress. Default is `#`.
 - __incomplete__ - _String_  
-  The character that shows the remaining progress. Default is `-`.
+  The character that shows the remaining progress. Default is `·`.
 - __length__ - _Number_  
-  The total length of the progress bar. The real length is the total minus 7. Default is `31`.
-	
-  ```
-    [############------------]  50%
-     ^______________________^ 24
-    ^_____________________________^ 31
-  ```
+  The length of the progress bar. Default is `24`.
 
 ---
 
