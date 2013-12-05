@@ -45,9 +45,11 @@ Options:
 - __length__ - _Number_  
   The total length of the progress bar. The real length is the total minus 7. Default is `31`.
 	
-	[############------------]  50%  
-	 ^______________________^ 31 - 7 = 24  
+  ```
+	[############------------]  50%
+	 ^______________________^ 24
 	^_____________________________^ 31
+  ```
 
 __Methods__
 
