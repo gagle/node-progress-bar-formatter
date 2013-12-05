@@ -26,6 +26,13 @@ console.log (progress.format (0.4));
 
 ---
 
+<a name="create"></a>
+___module_.create([options]) : Formatter__
+
+Returns a new [Formatter](#formatter_object) instance.
+
+---
+
 <a name="formatter_object"></a>
 __Formatter__
 
