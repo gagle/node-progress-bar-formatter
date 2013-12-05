@@ -2,7 +2,7 @@
 	"name": "progress-bar-formatter",
 	"version": "0.0.1",
 	"description": "Formats a progress bar",
-	"keywords": ["progress", "bar", "format", "build"],
+	"keywords": ["progress", "bar", "format"],
 	"author": "Gabriel Llamas <gagle@outlook.com>",
 	"repository": "git://github.com/gagle/node-progress-bar-formatter.git",
 	"engines": {
