@@ -1,7 +1,7 @@
 progress-bar-formatter
 ======================
 
-#### Builds a progress bar ####
+#### Formats a progress bar ####
 
 [![NPM version](https://badge.fury.io/js/progress-bar-formatter.png)](http://badge.fury.io/js/progress-bar-formatter "Fury Version Badge")
 
