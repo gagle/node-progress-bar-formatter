@@ -13,7 +13,7 @@ progress-bar-formatter
 var pbf = require ("progress-bar-formatter");
 var progress = pbf.create ();
 console.log (progress.format (0.4));
-//##########--------------
+//##########··············
 ```
 
 #### Functions ####
