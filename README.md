@@ -31,11 +31,6 @@ ___module_.create([options]) : Formatter__
 
 Returns a new [Formatter](#formatter_object) instance.
 
----
-
-<a name="formatter_object"></a>
-__Formatter__
-
 Options:
 
 - __complete__ - _String_  
@@ -50,6 +45,11 @@ Options:
 	 ^______________________^ 24
 	^_____________________________^ 31
   ```
+
+---
+
+<a name="formatter_object"></a>
+__Formatter__
 
 __Methods__
 
