@@ -4,12 +4,8 @@ progress-bar-formatter
 #### Progress bar formatter ####
 
 [![npm version][npm-version-image]][npm-url]
-
-[![npm install][npm-install-image]][npm-url]
-
-[![NPM version](https://badge.fury.io/js/progress-bar-formatter.png)](http://badge.fury.io/js/progress-bar-formatter "Fury Version Badge")
-
-[![NPM installation](https://nodei.co/npm/progress-bar-formatter.png?mini=true)](https://nodei.co/npm/progress-bar-formatter "NodeICO Badge")
+[![Travis][travis-image]][travis-url]
+[![Coveralls][coveralls-image]][coveralls-url]
 
 #### Example ####
 
@@ -61,6 +57,9 @@ __Formatter#format(n) : String__
 
 Formats the progress bar. `n` is a number between 0 and 1.
 
-[npm-version-image]: http://img.shields.io/npm/v/progress-bar-formatter.svg
-[npm-install-image]: https://nodei.co/npm/progress-bar-formatter.png?mini=true
+[npm-version-image]: https://img.shields.io/npm/v/progress-bar-formatter.svg?style=flat
 [npm-url]: https://npmjs.org/package/progress-bar-formatter
+[travis-image]: https://img.shields.io/travis/gagle/node-progress-bar-formatter.svg?style=flat
+[travis-url]: https://travis-ci.org/gagle/node-progress-bar-formatter
+[coveralls-image]: https://img.shields.io/coveralls/gagle/node-progress-bar-formatter.svg?style=flat
+[coveralls-url]: https://coveralls.io/r/gagle/node-progress-bar-formatter
