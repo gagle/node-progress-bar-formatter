@@ -18,7 +18,7 @@ console.log (progress.format(0.4));
 ```
 
 <a name="formatter"></a>
-__ProgressBarFormater__
+__Formater([options])__
 
 Options:
 
