@@ -14,7 +14,7 @@ var ProgressBarFormatter = require('progress-bar-formatter');
 
 var bar = new ProgressBarFormatter();
 console.log (progress.format(0.4));
-//##########··············
+// ##########··············
 ```
 
 <a name="formatter"></a>
