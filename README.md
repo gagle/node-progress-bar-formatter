@@ -18,7 +18,7 @@ console.log (progress.format(0.4));
 ```
 
 <a name="formatter"></a>
-__Formater([options])__
+__Formatter([options])__
 
 Options:
 
