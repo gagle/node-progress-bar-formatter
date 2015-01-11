@@ -13,7 +13,7 @@ progress-bar-formatter
 var ProgressBarFormatter = require('progress-bar-formatter');
 
 var bar = new ProgressBarFormatter();
-console.log (progress.format(0.4));
+console.log (bar.format(0.4));
 // ##########··············
 ```
 
