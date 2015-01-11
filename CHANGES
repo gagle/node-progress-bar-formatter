@@ -1,2 +1,8 @@
+v2.0.0 (11 Jan 2015)
+  Removed "create()". The constructor is now exported.
+
+v1.0.0 (01 Jan 2014)
+  Bump version.
+
 v0.0.1 (05 Dec 2013)
-	First release.
+  First release.

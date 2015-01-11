@@ -1,7 +1,11 @@
 progress-bar-formatter
 ======================
 
-#### Formats a progress bar ####
+#### Progress bar formatter ####
+
+[![npm version][npm-version-image]][npm-url]
+
+[![npm install][npm-install-image]][npm-url]
 
 [![NPM version](https://badge.fury.io/js/progress-bar-formatter.png)](http://badge.fury.io/js/progress-bar-formatter "Fury Version Badge")
 
@@ -56,3 +60,7 @@ __Methods__
 __Formatter#format(n) : String__
 
 Formats the progress bar. `n` is a number between 0 and 1.
+
+[npm-version-image]: http://img.shields.io/npm/v/progress-bar-formatter.svg
+[npm-install-image]: https://nodei.co/npm/progress-bar-formatter.png?mini=true
+[npm-url]: https://npmjs.org/package/progress-bar-formatter
