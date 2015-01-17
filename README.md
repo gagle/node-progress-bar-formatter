@@ -3,9 +3,9 @@ progress-bar-formatter
 
 #### Progress bar formatter ####
 
-[![npm version][npm-version-image]][npm-url]
-[![Travis][travis-image]][travis-url]
-[![Coveralls][coveralls-image]][coveralls-url]
+[![npm][npm-image]][npm-url]
+[![travis][travis-image]][travis-url]
+[![coveralls][coveralls-image]][coveralls-url]
 
 #### Example ####
 
@@ -34,7 +34,7 @@ __Formatter#format(progress) : String__
 
 Formats the progress bar. `progress` is a number between 0 and 1.
 
-[npm-version-image]: https://img.shields.io/npm/v/progress-bar-formatter.svg?style=flat
+[npm-image]: https://img.shields.io/npm/v/progress-bar-formatter.svg?style=flat
 [npm-url]: https://npmjs.org/package/progress-bar-formatter
 [travis-image]: https://img.shields.io/travis/gagle/node-progress-bar-formatter.svg?style=flat
 [travis-url]: https://travis-ci.org/gagle/node-progress-bar-formatter
