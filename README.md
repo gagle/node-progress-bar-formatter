@@ -17,7 +17,6 @@ console.log (bar.format(0.4));
 // ##########··············
 ```
 
-<a name="formatter"></a>
 __Formatter([options])__
 
 Options:
@@ -29,7 +28,6 @@ Options:
 - __length__ - _Number_  
   The length of the progress bar. Default is `24`.
 
-<a name="formatter_format"></a>
 __Formatter#format(progress) : String__
 
 Formats the progress bar. `progress` is a number between 0 and 1.
